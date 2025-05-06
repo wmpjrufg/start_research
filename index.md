@@ -55,5 +55,20 @@ Como no nosso caso desejamos o efeito álcali-agregado vamos trocar algumas das 
 Portanto usando o operador <code>AND</code> podemos construir então um conjunto inicial de textos para busca em bases profissionais como Scopus, Web of Science e outros.
 </p>
 
+<h3>Meus primeiros mapas</h3>
 
+<p align="justify">
+Usando essas palavras-chave vamos usar alguns programas que nós ajudam a ter uma ideia do contexto geral. Para isso instalaremos dois programas:
+</p>
+
+<ol>
+<li><a href="https://harzing.com/resources/publish-or-perish" target="_blank"><b>Publish or Perish</b></a></li> 
+<li><a href="https://www.vosviewer.com/" target="_blank"><b>VosViwer</b></a></li> 
+</ol>
+<p align="justify">
+Usando apenas o Google Scholar que não é a melhor das bases, mas é uma base aberta podemos construir os primeiros mapas combinando, autores, palavras-chave, ano de publicação. Vejamos o vídeo disponibilizado por 
+Dr. Basharat Ahmad Malik o qual combina as duas ferramentas.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cqla-F2bflk?si=u4tUID-qFKklSxn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
